@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-- ✅ Experienced in **Java**, **Python**, **Kubernetes**, **AI**, **LLM**, system design, and architectural principles
+- ✅ Experienced in **20 years of designing and building software**, **System design**, **AI**, **LLM**, Cloud and Microcloud
 - 🌱 Always learning and exploring the latest in tech
 - 💡 Enthusiastic about driving innovation in software architecture
 - 👨‍👩‍👧‍👦 Family and friends mean the world to me
@@ -16,8 +16,8 @@
 
 ## 🚀 Skills & Technologies
 
-- **Languages:** Java, Python
-- **Cloud & Infra:** Kubernetes
+- **Languages:** Language agnostic
+- **Cloud & Infra:** Kubernetes, Docker, Microcloud
 - **AI & ML:** Artificial Intelligence, Language Models
 - **System Design:** Scalable architectures, best practices
 - **Other:** Architectural Principles, Innovation
